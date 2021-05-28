@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MOV_0006.mp4#t=48.jpg</filename>
+    <path>deep_learning_erizos-PascalVOC-export/Annotations/MOV_0006.mp4#t=48.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>anemoda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1048.4108056998778</xmin>
+        <ymin>361.7119565217392</ymin>
+        <xmax>1290.9535452322739</xmax>
+        <ymax>571.4511108398438</ymax>
+    </bndbox>
+</object><object>
+    <name>anemoda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>851.0195227765727</xmin>
+        <ymin>680.1622750642673</ymin>
+        <xmax>991.236442516269</xmax>
+        <ymax>843.9669023136246</ymax>
+    </bndbox>
+</object><object>
+    <name>anemoda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>873.232104121475</xmin>
+        <ymin>845.3550771208226</ymin>
+        <xmax>921.822125813449</xmax>
+        <ymax>896.7175449871464</ymax>
+    </bndbox>
+</object><object>
+    <name>anemoda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>945.4229934924078</xmin>
+        <ymin>941.1391388174807</ymin>
+        <xmax>1056.4859002169198</xmax>
+        <ymax>1023.0414524421593</ymax>
+    </bndbox>
+</object><object>
+    <name>anemoda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1288.3297180043385</xmin>
+        <ymin>748.1828406169666</ymin>
+        <xmax>1350.8026030368765</xmax>
+        <ymax>818.9797557840617</ymax>
+    </bndbox>
+</object>
+</annotation>

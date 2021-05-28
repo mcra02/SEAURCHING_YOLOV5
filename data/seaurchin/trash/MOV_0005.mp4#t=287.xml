@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MOV_0005.mp4#t=287.jpg</filename>
+    <path>deep_learning_erizos-PascalVOC-export/Annotations/MOV_0005.mp4#t=287.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sol-mar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1427.0904645476774</xmin>
+        <ymin>392.0869565217392</ymin>
+        <xmax>1600.0000477536676</xmax>
+        <ymax>566.755458665931</ymax>
+    </bndbox>
+</object>
+</annotation>

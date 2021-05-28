@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MOV_0006.mp4#t=96.133333.jpg</filename>
+    <path>deep_learning_erizos-PascalVOC-export/Annotations/MOV_0006.mp4#t=96.133333.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>anemoda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>892.7140319376529</xmin>
+        <ymin>0</ymin>
+        <xmax>1127.4328583435208</xmax>
+        <ymax>104.23371953549594</ymax>
+    </bndbox>
+</object><object>
+    <name>estrella-mar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>720.5206073752712</xmin>
+        <ymin>681.5504498714653</ymin>
+        <xmax>896.8329718004338</xmax>
+        <ymax>1006.383354755784</ymax>
+    </bndbox>
+</object><object>
+    <name>estrella-mar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>794.0997830802603</xmin>
+        <ymin>151.2676735218509</ymin>
+        <xmax>944.0347071583515</xmax>
+        <ymax>245.66356041131104</ymax>
+    </bndbox>
+</object>
+</annotation>

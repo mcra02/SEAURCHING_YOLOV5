@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MOV_0007.mp4#t=39.733333.jpg</filename>
+    <path>deep_learning_erizos-PascalVOC-export/Annotations/MOV_0007.mp4#t=39.733333.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>anemoda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>999.9022004889977</xmin>
+        <ymin>4.059794550356658</ymin>
+        <xmax>1377.7995110024451</xmax>
+        <ymax>599.625023883322</ymax>
+    </bndbox>
+</object><object>
+    <name>anemoda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>287.13938818001225</xmin>
+        <ymin>270.1467391304348</ymin>
+        <xmax>808.2152544315404</xmax>
+        <ymax>707.625023883322</ymax>
+    </bndbox>
+</object>
+</annotation>

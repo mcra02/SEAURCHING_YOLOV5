@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MOV_0005.mp4#t=252.6.jpg</filename>
+    <path>deep_learning_erizos-PascalVOC-export/Annotations/MOV_0005.mp4#t=252.6.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>estrella-mar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>820.7335440861859</xmin>
+        <ymin>119.10327281122623</ymin>
+        <xmax>945.9168704156481</xmax>
+        <ymax>280.32067605723506</ymax>
+    </bndbox>
+</object>
+</annotation>

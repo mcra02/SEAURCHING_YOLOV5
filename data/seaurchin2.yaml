@@ -1,0 +1,9 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ./data/seaurchin/images/train/ # 1653 images
+val: ./data/seaurchin/images/test/ # 413 images
+
+# number of classes
+nc: 2
+
+# class names
+names: ["erizo-negro", "erizo-rojo"]
